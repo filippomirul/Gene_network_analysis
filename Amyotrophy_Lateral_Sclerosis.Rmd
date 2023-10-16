@@ -11,7 +11,7 @@ editor_options:
     wrap: sentence
 ---
 
-# Setting data up
+# Setting up data
 
 ```{r setup}
 knitr::opts_chunk$set(echo = TRUE, message = FALSE,
